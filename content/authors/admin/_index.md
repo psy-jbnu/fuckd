@@ -37,9 +37,9 @@ profiles:
     url: https://github.com/psy-jbnu
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 육종 
+  - 인공지능
+  - 웹 개발
 
 education:
   - area: PhD Artificial Intelligence
