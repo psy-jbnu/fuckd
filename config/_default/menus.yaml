@@ -16,9 +16,6 @@ main:
   - name: 경력
     url: experience/
     weight: 13
-  - name: 활동
-    uri: activity/
-    weight: 14
   - name: 연락
     url: contact/
     weight: 15
