@@ -36,7 +36,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/psy-jbnu
 
-interests:
+관심분야:
   - 육종 
   - 인공지능
   - 웹 개발
