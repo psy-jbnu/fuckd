@@ -49,54 +49,43 @@ education:
     summary: |
       학점: 4.24/4.5
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: 강사
+    company_name: 전주주부평생학교
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-01-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - 검정고시 고등/중등반 사회 강의
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 사용가능한 기술
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: code-bracket
-      - name: Data Science
+      - name: Java
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 70
+        icon: code-bracket
+      - name: C++
+        description: ''
+        percent: 70
+        icon: code-bracket
       - name: SQL
         description: ''
-        percent: 40
+        percent: 70
         icon: circle-stack
-  - name: Hobbies
+  - name: 취미
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: 차
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: tea
       - name: Cats
         description: ''
         percent: 100
