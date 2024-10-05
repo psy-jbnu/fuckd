@@ -47,7 +47,7 @@ education:
     date_start: 2023-03-01
     date_end: 
     summary: |
-    
+
 work:
   - position: 강사 (근로장학생)
     company_name: 전주주부평생학교
@@ -86,14 +86,18 @@ skills:
         description: ''
         percent: 60
         icon: tea
-      - name: Cats
+      - name: 국궁
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: 
         description: ''
-        percent: 80
-        icon: camera
+        percent: 
+        icon: 
+      - name: 
+        description: ''
+        percent: 
+        icon: 
 
 languages:
   - name: 한국어
