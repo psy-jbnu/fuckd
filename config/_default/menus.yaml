@@ -7,12 +7,19 @@ main:
   - name: Home
     url: /
     weight: 10
+  - name: 자기소개
+    url: introduce/
+    weight: 11
   - name: 프로젝트
     url: projects/
-    weight: 11
+    weight: 12
   - name: 경력
     url: experience/
-    weight: 20
+    weight: 13
+  - name: 활동
+    uri: activity/
+    weight: 14
   - name: 연락
     url: contact/
-    weight: 30
+    weight: 15
+  
