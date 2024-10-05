@@ -65,31 +65,31 @@ skills:
       - name: Python
         description: ''
         percent: 70
-        icon: code-bracket
+        icon: devicon/python
       - name: Java
         description: ''
         percent: 70
-        icon: code-bracket
+        icon: devicon/java
       - name: C++
         description: ''
         percent: 70
-        icon: code-bracket
+        icon: devicon/cplusplus
       - name: SQL
         description: ''
         percent: 70
-        icon: circle-stack
+        icon: 
   - name: 취미
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: 차
         description: ''
-        percent: 60
-        icon: tea
+        percent: 100
+        icon: custom/tea
       - name: 국궁
         description: ''
-        percent: 100
-        icon: cat
+        percent: 10
+        icon: custom/archery
       - name: 
         description: ''
         percent: 
