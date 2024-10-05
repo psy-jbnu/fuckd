@@ -2,16 +2,10 @@
 # Display name
 title: 박승엽
 
-# Name pronunciation (optional)
-name_pronunciation: Park Seungyeop
 
 # Full name (for SEO)
 first_name: 박
 last_name: 승엽
-
-# Status emoji
-status:
-  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -96,12 +90,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: 한국어
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: 영어
+    percent: 50
+  - name: 일본어
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
