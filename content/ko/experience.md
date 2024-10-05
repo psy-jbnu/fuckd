@@ -15,17 +15,17 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: '2006 January'
+      date_format: '2006년 January'
       # Education or Experience section first?
-      is_education_first: false
+      is_education_first: true
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: 기술과 취미
       username: admin
     design:
       show_skill_percentage: true
   - block: resume-languages
     content:
-      title: Languages
+      title: 사용가능 언어
       username: admin
 ---
