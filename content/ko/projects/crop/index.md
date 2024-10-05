@@ -15,7 +15,7 @@ sections:
       text: 
       filters:
         folders:
-          - projects
+          - projects/crop
     design:
       view: article-grid
       fill_image: false
