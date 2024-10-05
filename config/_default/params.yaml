@@ -32,7 +32,7 @@ header:
     enable: true
     blox: "navbar"
     fixed_to_top: true
-    show_search: false
+    show_search: true
     show_theme_chooser: true
     logo:
       text: "박승엽"
@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Seungyeop Park. This work is licensed under {license}'
+    notice: '© {year} Park Seungyeop. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
