@@ -15,7 +15,7 @@ sections:
       text: 
       filters:
         folders:
-          - projects/cs
+          - cs
     design:
       view: article-grid
       fill_image: false
