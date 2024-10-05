@@ -77,7 +77,7 @@ skills:
       - name: SQL
         description: ''
         percent: 70
-        icon: 
+        icon: circle-stack
   - name: 취미
     color: '#eeac02'
     color_border: '#f0bf23'
