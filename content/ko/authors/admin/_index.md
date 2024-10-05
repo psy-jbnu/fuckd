@@ -47,7 +47,7 @@ education:
     date_start: 2023-03-01
     date_end: 
     summary: |
-      학점: 4.24/4.5
+    
 work:
   - position: 강사 (근로장학생)
     company_name: 전주주부평생학교
@@ -102,6 +102,8 @@ languages:
     percent: 50
   - name: 일본어
     percent: 40
+
+---
 
 ## About Me
 
